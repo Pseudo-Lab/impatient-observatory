@@ -112,7 +112,7 @@ AI의 기술 트렌드, 시대의 변화, 그리고 그 활용에 대한 소식�
 
 | 날짜 | 내용 | 장소 |
 | -------- | -------- | -------- | 
-| 월요일-금요일 | 자료 업로드  | [깃허브 디스커션](https://github.com/Pseudo-Lab/impatient-observatory/discussions/25) |  
+| 월요일-토요일 | 자료 업로드  | [깃허브 디스커션](https://github.com/Pseudo-Lab/impatient-observatory/discussions/25) |  
 | 일요일 [20시] | 온라인 모임 | [디스코드 YL채널](https://discord.com/channels/944032730050621450/1068784805413654579) |
 | 마지막 주 월 - 금 |  오프라인 계획 |  |
 | 마지막 주 토요일 |  오프라인 모임 |  |
